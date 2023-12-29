@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laksh
-- 👀 I’m interested in web development ' cloud computing and other development skills
+- 👀 I’m interested in web development ' cloud computing and blockchain development
 - 🌱 I’m currently learning backened
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 reach me through email lakshde344@gmail.com
