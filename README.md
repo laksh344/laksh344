@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Laksh ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=750&lines=Full-Stack+Developer+%7C+Gen+AI+Explorer+%7C+SpringBoot+Engineer;Crafting+Solutions+with+Java%2C+IoT%2C+and+AI+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=950&lines=Full-Stack+Developer+%7C+Gen+AI+Explorer+%7C+SpringBoot+Engineer;Building+with+Java%2C+IoT%2C+Microservices%2C+and+AI" alt="Typing SVG" />
 </p>
+
 
 ---
 
