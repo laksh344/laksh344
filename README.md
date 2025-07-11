@@ -1,23 +1,22 @@
 <h1 align="center">Hey, I'm Laksh ⚡</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFFF&center=true&multiline=true&width=1000&lines=Full-Stack+Dev+%7C+Gen+AI+Explorer+%7C+SpringBoot+Engineer;Crafting+Java%2C+IoT%2C+AI+Magic+into+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
+---
 
+## 🔍 About Me
+
+- 🧑‍💻 **Name:** Laksh [`@laksh344`](https://github.com/laksh344)
+- 💡 Focus Areas: `Full Stack Engineering`, `Generative AI`, `Java IoT Systems`, `Cloud Native Apps`
+- 🛠️ Tech Stack: `Spring Boot`, `LLMs`, `React`, `Microservices`, `IoT Edge Devices`
+- 🤝 Open for: Collaborations in **AI Projects**, **Backend Dev**, and **Smart System Designs**
+- 📫 Email: [lakshde344@gmail.com](mailto:lakshde344@gmail.com)
 
 ---
 
-### 🔍 About Me
-
-- 🧑‍💻 **Name:** Laksh [`@laksh344`](https://github.com/laksh344)  
-- 🧠 Focus: **Full Stack Engineering**, **Generative AI**, **Java IoT Systems**, and **Cloud Native Apps**
-- 🛠️ Building with: `Spring Boot`, `LLMs`, `Microservices`, `React`, `Edge IoT`
-- 🤝 Open for collaborations in **AI Applications**, **Java Backends**, and **Smart Devices**
-- 📬 Reach me at: **lakshde344@gmail.com**
-
----
-
-### 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,java,spring,python,aws,docker,figma,github&theme=dark" />
@@ -25,7 +24,7 @@
 
 ---
 
-### 🧬 Gen AI & Smart Systems
+## 🧬 Gen AI & Smart Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFB6C1?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -37,16 +36,16 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="270" />
 </p>
 
 ---
 
-### 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laksh344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
@@ -59,12 +58,24 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:lakshde344@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lakshde344@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/laksh344"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+## 🤝 Contribution Box
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-33CCFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues-Good%20First%20Issue-blueviolet?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-Open%20to%20Collaborate-28a745?style=for-the-badge&logo=gitbook&logoColor=white" />
+</p>
+
+<p align="center">Have an idea, feature request, or want to contribute? Let’s build together!</p>
 
 ---
 
